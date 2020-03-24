@@ -9,6 +9,8 @@ public class MathOperation {
 		System.out.println("substraction :"+b);
 		int m= 190*90;
 		System.out.println("multiplication :"+m);
+		int d= 190/90;
+		System.out.println("division :"+d);
 		
 		
 	}
