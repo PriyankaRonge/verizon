@@ -15,6 +15,7 @@ public class MathOperation {
 		System.out.println("printing division :"+d);
 
 		
-		
+				System.out.println("printing substraction :"+d);
+
 	}
 }
