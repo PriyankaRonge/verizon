@@ -11,6 +11,8 @@ public class MathOperation {
 		System.out.println("multiplication :"+m);
 		int d= 190/90;
 		System.out.println("division :"+d);
+		System.out.println("printing division :"+d);
+
 		
 		
 	}
