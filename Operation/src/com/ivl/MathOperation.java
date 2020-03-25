@@ -7,6 +7,8 @@ public class MathOperation {
 		System.out.println("addition :"+a);
 		int b= 190-90;
 		System.out.println("substraction :"+b);
+		int m= 190*90;
+		System.out.println("multiplication :"+m);
 		
 		
 	}
