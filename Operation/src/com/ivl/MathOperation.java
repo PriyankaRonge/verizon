@@ -12,6 +12,7 @@ public class MathOperation {
 		double d= 190/90;
 		System.out.println("division :"+d);
 		System.out.println("consolidated output:"+"1.addition:"+a+"2.substraction :"+b+"multiplication :"+m+"division :"+d) ;
+		System.out.println("printing division :"+d);
 
 		
 		
